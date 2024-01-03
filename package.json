@@ -11,20 +11,28 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
     "framer-motion": "^10.16.16",
+    "lucide-react": "^0.303.0",
     "next": "14.0.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "^7.6.6",
-    "@storybook/addon-interactions": "^7.6.6",
-    "@storybook/addon-links": "^7.6.6",
+    "@storybook/addon-essentials": "^7.6.7",
+    "@storybook/addon-interactions": "^7.6.7",
+    "@storybook/addon-links": "^7.6.7",
+    "@storybook/addon-mdx-gfm": "^7.6.7",
     "@storybook/addon-onboarding": "^1.0.10",
-    "@storybook/blocks": "^7.6.6",
-    "@storybook/nextjs": "^7.6.6",
-    "@storybook/react": "^7.6.6",
-    "@storybook/test": "^7.6.6",
+    "@storybook/blocks": "^7.6.7",
+    "@storybook/manager-api": "^7.6.7",
+    "@storybook/nextjs": "^7.6.7",
+    "@storybook/react": "^7.6.7",
+    "@storybook/test": "^7.6.7",
+    "@storybook/theming": "^7.6.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
@@ -33,7 +41,7 @@
     "eslint-config-next": "14.0.4",
     "eslint-plugin-storybook": "^0.6.15",
     "postcss": "^8",
-    "storybook": "^7.6.6",
+    "storybook": "^7.6.7",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
   }
