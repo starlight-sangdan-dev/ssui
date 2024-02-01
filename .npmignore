@@ -1,7 +1,10 @@
 .storybook/
 node_modules/
 stories/
+cypress/
 
 postcss.config.js
 tailwind.config.js
 devlog.md
+tsconfig.json
+vite.config.js
