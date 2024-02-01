@@ -1,0 +1,6 @@
+.storybook/
+node_modules/
+stories/
+
+postcss.config.js
+tailwind.config.js

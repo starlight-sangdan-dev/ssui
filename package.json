@@ -1,0 +1,35 @@
+{
+    "name": "@starlight-sangdan/ssui",
+    "description": "Starlight-Sangdan UI Library for React Projects",
+    "author": "danju <danju@starlight-sangdan.com",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/starlight-sangdan-dev/ssui.git"
+    },
+    "files": [
+        "components/**/*"
+    ],
+    "devDependencies": {
+        "@storybook/addon-essentials": "^7.6.12",
+        "@storybook/addon-interactions": "^7.6.12",
+        "@storybook/addon-links": "^7.6.12",
+        "@storybook/addon-onboarding": "^1.0.11",
+        "@storybook/blocks": "^7.6.12",
+        "@storybook/react": "^7.6.12",
+        "@storybook/react-vite": "^7.6.12",
+        "@storybook/test": "^7.6.12",
+        "@types/react": "^18.2.51",
+        "autoprefixer": "^10.4.17",
+        "postcss": "^8.4.33",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "storybook": "^7.6.12",
+        "tailwindcss": "^3.4.1",
+        "typescript": "^5.3.3"
+    },
+    "scripts": {
+        "storybook": "storybook dev -p 6006",
+        "build-storybook": "storybook build"
+    }
+}
