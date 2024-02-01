@@ -1,8 +1,8 @@
 {
     "name": "@starlight-sangdan/ssui",
     "description": "Starlight-Sangdan UI Library for React Projects",
-    "author": "danju <danju@starlight-sangdan.com",
-    "version": "0.0.1",
+    "author": "danju <danju@starlight-sangdan.com>",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/starlight-sangdan-dev/ssui.git"
